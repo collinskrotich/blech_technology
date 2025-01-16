@@ -53,7 +53,7 @@ export default function Contact() {
               <Mail className="h-6 w-6 text-blue-600 flex-shrink-0" />
               <div>
                 <h4 className="font-semibold">Email</h4>
-                <p className="text-gray-600">support@blechtechnology.com</p>
+                <p className="text-gray-600">info@blechtechnology.com</p>
               </div>
             </div>
             
